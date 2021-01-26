@@ -217,6 +217,7 @@
     width: auto;
     background-color: #1f1f1f;
     color: #FFFFFF;
+    padding: 0 0 90px 0;
 }
 
 .kaufman__triangle {
@@ -227,7 +228,7 @@
 
 .kaufman__title_theme_dark {
     width: 60%;
-    margin: 0 auto 20px auto;
+    margin: 90px auto 20px auto;
     text-align: center;
     line-height: 1.15;
     font-size: 60px;
@@ -256,7 +257,7 @@
 .table__cell_theme_dark {
     width: 200px;
     flex-wrap: wrap;
-    margin: 80px auto;
+    margin: 80px auto 40px auto;
     z-index: 1;
 }
 
@@ -283,6 +284,7 @@
     background-color: #1f1f1f;
     color: #FFFFFF;
     position: relative;
+    padding: 60px 0 0 0;
 }
 
 .columns {
@@ -330,4 +332,5 @@
 
 a {
     text-decoration: none;
+    color: #2f80ed;
 }
