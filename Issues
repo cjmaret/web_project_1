@@ -15,3 +15,12 @@
 5. Footer: 
     - "about" column needs to be more to the right
     - icons need to sit next to facebook/insta text
+
+
+New Issues 3/2
+
+1. A horizontal scrolling on desktop resolutions: 1612px and smaller.
+
+2. Footer markup and layout is incorrect: it's 100px higher than it should be. Please, check the brief and keep in mind that paddings increase the element dimensions by default, 
+to make both paddings and content fit into the assigned height, it's necessary to use box-sizing: border-box. Note that the last two columns should have the same layout (spacing, colors),
+ with the only difference that social links have icons inside them.
