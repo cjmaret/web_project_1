@@ -1,5 +1,4 @@
-# web_project_1
-Web Project 1
+# Learning How to Learn
 
 Project Name: "Learning How to Learn"
 Description:
