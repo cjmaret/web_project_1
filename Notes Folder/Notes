@@ -1,0 +1,6 @@
+background-image: url("../../images/header-image.png");
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 867px 637px;
+
+    <img class="feynman__image" src="images/feynman.png" alt="image of feynman" /> 

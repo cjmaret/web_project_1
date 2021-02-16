@@ -2,6 +2,5 @@
 @import url(./__iframe/video__iframe.css);
 
 .video {
-    padding-bottom: 60px;
-    background-image: linear-gradient(to bottom, white 80%, #f2f2f2 20%);
+    margin: 100px auto -53px auto;
 }   
